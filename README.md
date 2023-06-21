@@ -14,7 +14,7 @@ Python Kullanılarak yapılmış Flappy Bird Clone.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fuekihigh/flappy-bird
+  git clone https://github.com/fuekisecurity/flappy-bird
 ```
 
 Proje dizinine gidin
@@ -38,4 +38,4 @@ Kodu çalıştırın
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen fuekihigh Instagram adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen fuekisecurity Instagram adresinden bize ulaşın.
